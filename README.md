@@ -14,7 +14,7 @@ you can use the python script so as to load the .ko module , to do it , juste ex
 
     $ ./simcard.py
     
-you got four cmd
+you got those cmd
 
 * load 	       ( load module )
 * show 	       ( show dmesg output )
